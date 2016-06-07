@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Every church community begins with the coming together of those first few...
-datePublished: '2016-03-28T23:39:34.430Z'
-dateModified: '2016-03-28T23:39:24.671Z'
+datePublished: '2016-06-07T22:41:06.352Z'
+dateModified: '2016-03-28T23:41:54.147Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-03-28-every-church-community-begins-with-the-coming-together-of-th.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-every-church-community-begins-with-the-coming-together-of-th.md
-published: true
 url: every-church-community-begins-with-the-coming-together-of-th/index.html
 _type: Article
 
