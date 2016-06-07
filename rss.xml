@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[gracecityportland]]></title>
         <description><![CDATA[gracecityportland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gracecityportland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 23:39:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 07 Jun 2016 22:41:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gracecityportland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Every church community begins with the coming together of those first few...</p>]]></description>
-            <link>undefinedevery-church-community-begins-with-the-coming-together-of-th/index.html</link>
+            <link>https://thegrid.ai/gracecityportland/every-church-community-begins-with-the-coming-together-of-th/index.html</link>
             <guid isPermaLink="false">873169bc-1076-47e4-88f7-0d8c298bc8f3</guid>
-            <pubDate>Mon, 28 Mar 2016 23:39:34 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2016 22:41:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
